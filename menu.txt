@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+1)ใข่เจียว
+2)ข้าวผัด
+3)ข้าวมันไก่
+จุลจักร ชูรัก
